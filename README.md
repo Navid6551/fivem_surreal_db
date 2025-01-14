@@ -12,13 +12,13 @@ set surreal_password 'root'
 set surreal_database 'fivem'
 set surreal_namespace 'fivem'
 
-##Usage
+## Usage
 
 Add the following line to the fxmanifest of the resource you want to use fivem_surrealdb in:
 ```
 server_script '@fivem_surreal_db/lib/SurrealDB.lua'
 ```
 
-##Discord
+## Discord
 
 [My Discord Server](https://discord.gg/WRbyQtH4yz)
