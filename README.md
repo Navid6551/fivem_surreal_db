@@ -4,7 +4,7 @@
 ## Dependencies
 [SuurealDB](https://surrealdb.com/docs/surrealdb/introduction/start) Latest Version
 
-##CFG
+## CFG
 
 set surreal_url "http://127.0.0.1:8000/rpc"
 set surreal_username 'root'
