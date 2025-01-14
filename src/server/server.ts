@@ -14,6 +14,7 @@ if (!globalThis.fetch) {
 
 global.exports("SurrealDB", () => {
   return {
+    isConnected: () => db.isConnected(),
     connect: async (database: DatabaseConfig) => db.connect(database),
     create: async (table: string, data: any) => db.create(table, data),
     change: async (table: string, data: any) => db.change(table, data),
