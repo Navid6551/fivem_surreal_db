@@ -6,11 +6,11 @@
 
 ## CFG
 
-set surreal_url "http://127.0.0.1:8000/rpc"
-set surreal_username 'root'
-set surreal_password 'root'
-set surreal_database 'fivem'
-set surreal_namespace 'fivem'
+set surreal_url "http://127.0.0.1:8000/rpc" <br>
+set surreal_username 'root' <br>
+set surreal_password 'root' <br>
+set surreal_database 'fivem' <br>
+set surreal_namespace 'fivem' <br>
 
 ## Usage
 
